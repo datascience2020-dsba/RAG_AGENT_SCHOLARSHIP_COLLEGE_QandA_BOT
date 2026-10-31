@@ -1,0 +1,41 @@
+{
+  "status": "excluded_not_a_program",
+  "content_hash": "36559d37465cec2c90102c156e18c43ebd865e74a3f0f121c3a3e3dc60e155b1",
+  "raw_file": "data\\raw\\79e428e94b1eaaf8866cc694e06226661f142d14e555f1f437c1900c3fa6450e.md",
+  "metadata": {
+    "program_name": null,
+    "organization": null,
+    "page_type": "not_a_program",
+    "award_type": "other",
+    "award_amount_min_usd": null,
+    "award_amount_max_usd": null,
+    "award_amount_text": null,
+    "renewable": null,
+    "deadline_text": null,
+    "deadline_date_iso": null,
+    "deadline_recurs_annually": null,
+    "eligibility_summary": null,
+    "applicant_stage": [],
+    "stem_fields": [],
+    "gpa_minimum": null,
+    "citizenship_requirements": null,
+    "residency_restriction": null,
+    "demographic_focus": [],
+    "need_based": null,
+    "merit_based": null,
+    "essay_required": null,
+    "recommendation_letters": null,
+    "tier": "B",
+    "source_url": "https://www.cfnc.org/pay-for-college/scholarship-search",
+    "crawl_date": "2026-10-23",
+    "evidence": {
+      "deadline": null,
+      "award": null,
+      "eligibility": null
+    },
+    "accepts_target_applicants": null,
+    "target_applicant_evidence": null,
+    "stem_relevance": null,
+    "stem_relevance_evidence": null
+  }
+}

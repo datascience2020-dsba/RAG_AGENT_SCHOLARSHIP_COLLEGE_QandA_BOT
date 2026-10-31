@@ -1,0 +1,41 @@
+{
+  "status": "review_required",
+  "content_hash": "13f4b867ac7b084a4fdf5c5dcac7186718959a439e3688dbaa4343db12fde3b6",
+  "raw_file": "data\\raw\\7401918b9b8522e4c28967fba4a9408ffb3826495d1a42a090a1623f8fed9603.md",
+  "metadata": {
+    "program_name": "Robert Noyce Scholarship",
+    "organization": "Colorado State University",
+    "page_type": "overview",
+    "award_type": "scholarship",
+    "award_amount_min_usd": 10000,
+    "award_amount_max_usd": 10000,
+    "award_amount_text": "$10,000",
+    "renewable": null,
+    "deadline_text": null,
+    "deadline_date_iso": null,
+    "deadline_recurs_annually": null,
+    "eligibility_summary": "Undergraduate STEM majors who are considering a career in teaching.",
+    "applicant_stage": [],
+    "stem_fields": [],
+    "gpa_minimum": null,
+    "citizenship_requirements": null,
+    "residency_restriction": null,
+    "demographic_focus": [],
+    "need_based": null,
+    "merit_based": null,
+    "essay_required": null,
+    "recommendation_letters": null,
+    "tier": "B",
+    "source_url": "https://natsci.source.colostate.edu/stem-students-interested-teaching-career-csu-offers-scholarships-research/",
+    "crawl_date": "2026-10-23",
+    "evidence": {
+      "deadline": null,
+      "award": "awards $10,000 to undergraduate STEM (science, technology, engineering, and math) majors who are considering a career in teaching.",
+      "eligibility": "awards $10,000 to undergraduate STEM (science, technology, engineering, and math) majors who are considering a career in teaching."
+    },
+    "accepts_target_applicants": null,
+    "target_applicant_evidence": null,
+    "stem_relevance": true,
+    "stem_relevance_evidence": "awards $10,000 to undergraduate STEM (science, technology, engineering, and math) majors who are considering a career in teaching."
+  }
+}

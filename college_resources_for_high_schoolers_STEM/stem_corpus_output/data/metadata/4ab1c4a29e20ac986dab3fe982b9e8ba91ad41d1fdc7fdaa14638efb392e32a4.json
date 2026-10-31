@@ -1,0 +1,48 @@
+{
+  "status": "accepted",
+  "content_hash": "73aed757f4c6294bcbf05214db5c8f015fa9451a20d26576520d648b6fab4556",
+  "raw_file": "data\\raw\\4ab1c4a29e20ac986dab3fe982b9e8ba91ad41d1fdc7fdaa14638efb392e32a4.md",
+  "metadata": {
+    "program_name": "Nicholas H. Colton Memorial Scholarship",
+    "organization": "University of Louisville",
+    "page_type": "overview",
+    "award_type": "scholarship",
+    "award_amount_min_usd": null,
+    "award_amount_max_usd": null,
+    "award_amount_text": null,
+    "renewable": null,
+    "deadline_text": null,
+    "deadline_date_iso": null,
+    "deadline_recurs_annually": null,
+    "eligibility_summary": "Students diagnosed with autism; preference for incoming freshmen from Jefferson County high schools majoring in biology or other STEM fields.",
+    "applicant_stage": [
+      "incoming_freshman"
+    ],
+    "stem_fields": [
+      "biology"
+    ],
+    "gpa_minimum": null,
+    "citizenship_requirements": null,
+    "residency_restriction": null,
+    "demographic_focus": [
+      "students with autism",
+      "students with disabilities"
+    ],
+    "need_based": null,
+    "merit_based": null,
+    "essay_required": null,
+    "recommendation_letters": null,
+    "tier": "B",
+    "source_url": "https://student.louisville.edu/disability-resource-center/resources/financial-aid-scholarships",
+    "crawl_date": "2026-10-23",
+    "evidence": {
+      "deadline": null,
+      "award": null,
+      "eligibility": "Preference given to an incoming freshmen from a Jefferson County Public Schools high school majoring in biology or other STEM-related fields."
+    },
+    "accepts_target_applicants": true,
+    "target_applicant_evidence": "Preference given to an incoming freshmen from a Jefferson County Public Schools high school majoring in biology or other STEM-related fields.",
+    "stem_relevance": true,
+    "stem_relevance_evidence": "Preference given to an incoming freshmen from a Jefferson County Public Schools high school majoring in biology or other STEM-related fields."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "status": "excluded_not_a_program",
+  "content_hash": "85fb7ed6d5e73f440d21538af45fb9c9282b4d58364d5898aa121a4b33d676f1",
+  "raw_file": "data\\raw\\194c8c852c26a493200672ab5557733b0db54d43193aca0a2a1741bb01604ede.md",
+  "metadata": {
+    "program_name": null,
+    "organization": "United Negro College Fund",
+    "page_type": "not_a_program",
+    "award_type": "other",
+    "award_amount_min_usd": null,
+    "award_amount_max_usd": null,
+    "award_amount_text": null,
+    "renewable": null,
+    "deadline_text": null,
+    "deadline_date_iso": null,
+    "deadline_recurs_annually": null,
+    "eligibility_summary": null,
+    "applicant_stage": [],
+    "stem_fields": [],
+    "gpa_minimum": null,
+    "citizenship_requirements": null,
+    "residency_restriction": null,
+    "demographic_focus": [],
+    "need_based": null,
+    "merit_based": null,
+    "essay_required": null,
+    "recommendation_letters": null,
+    "tier": "A",
+    "source_url": "https://uncf.org/pages/Applying-for-Scholarships-and-Grants",
+    "crawl_date": "2026-10-23",
+    "evidence": {
+      "deadline": null,
+      "award": null,
+      "eligibility": null
+    },
+    "accepts_target_applicants": null,
+    "target_applicant_evidence": null,
+    "stem_relevance": null,
+    "stem_relevance_evidence": null
+  }
+}

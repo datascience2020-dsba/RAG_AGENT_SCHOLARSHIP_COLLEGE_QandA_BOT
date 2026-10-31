@@ -1,0 +1,41 @@
+{
+  "status": "excluded_not_a_program",
+  "content_hash": "b296bd0f83e8423c83e0204a5fd2c5f3b5fefdbe9dd33e57641cd579a95ca54e",
+  "raw_file": "data\\raw\\18f033143eed551cf84d59b039a6cf7fb98c155cf7676a0e6e0aae1c567d8cc8.md",
+  "metadata": {
+    "program_name": null,
+    "organization": null,
+    "page_type": "not_a_program",
+    "award_type": "other",
+    "award_amount_min_usd": null,
+    "award_amount_max_usd": null,
+    "award_amount_text": null,
+    "renewable": null,
+    "deadline_text": null,
+    "deadline_date_iso": null,
+    "deadline_recurs_annually": null,
+    "eligibility_summary": null,
+    "applicant_stage": [],
+    "stem_fields": [],
+    "gpa_minimum": null,
+    "citizenship_requirements": null,
+    "residency_restriction": null,
+    "demographic_focus": [],
+    "need_based": null,
+    "merit_based": null,
+    "essay_required": null,
+    "recommendation_letters": null,
+    "tier": "B",
+    "source_url": "https://www.norcocollege.edu/services/enrollment/admissions/index.html",
+    "crawl_date": "2026-10-23",
+    "evidence": {
+      "deadline": null,
+      "award": null,
+      "eligibility": null
+    },
+    "accepts_target_applicants": null,
+    "target_applicant_evidence": null,
+    "stem_relevance": null,
+    "stem_relevance_evidence": null
+  }
+}

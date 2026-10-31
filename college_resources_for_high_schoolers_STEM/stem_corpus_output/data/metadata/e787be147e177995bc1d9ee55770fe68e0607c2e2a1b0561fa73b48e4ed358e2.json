@@ -1,0 +1,46 @@
+{
+  "status": "review_required",
+  "content_hash": "06f0ee3411d0e58626fa1ccac8b86305fc5d98e2bf9f7da6576b0ffeb5e39549",
+  "raw_file": "data\\raw\\e787be147e177995bc1d9ee55770fe68e0607c2e2a1b0561fa73b48e4ed358e2.md",
+  "metadata": {
+    "program_name": "HSF Scholar Program",
+    "organization": "HSF",
+    "page_type": "overview",
+    "award_type": "scholarship",
+    "award_amount_min_usd": 500,
+    "award_amount_max_usd": 5000,
+    "award_amount_text": "$500 - $5,000",
+    "renewable": null,
+    "deadline_text": "February 15 2026",
+    "deadline_date_iso": "2026-02-15",
+    "deadline_recurs_annually": false,
+    "eligibility_summary": "US Citizen, Permanent Legal Resident, or DACA; minimum 3.0 GPA for high school; plan to enroll full‑time in a US four‑year university for 2026‑2027; FAFSA required; open to students of Hispanic heritage.",
+    "applicant_stage": [
+      "senior",
+      "incoming_freshman"
+    ],
+    "stem_fields": [],
+    "gpa_minimum": 3.0,
+    "citizenship_requirements": "US Citizen, Permanent Legal Resident, or DACA",
+    "residency_restriction": null,
+    "demographic_focus": [
+      "Hispanic heritage"
+    ],
+    "need_based": true,
+    "merit_based": true,
+    "essay_required": null,
+    "recommendation_letters": null,
+    "tier": "B",
+    "source_url": "https://www.hsf.net/scholarship/",
+    "crawl_date": "2026-10-23",
+    "evidence": {
+      "deadline": "February 15 2026",
+      "award": "Award amounts range from $500 - $5,000, based on relative need.",
+      "eligibility": "Minimum of 3.0 GPA on a 4.0 scale (or equivalent) for high school students"
+    },
+    "accepts_target_applicants": true,
+    "target_applicant_evidence": "Minimum of 3.0 GPA on a 4.0 scale (or equivalent) for high school students",
+    "stem_relevance": null,
+    "stem_relevance_evidence": null
+  }
+}

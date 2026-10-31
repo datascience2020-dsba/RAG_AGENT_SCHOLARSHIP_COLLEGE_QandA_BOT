@@ -1,0 +1,41 @@
+{
+  "status": "excluded_not_a_program",
+  "content_hash": "044fe369cf9933f5527fb5c09f710e630003560b726c4dae8068ad0571584f44",
+  "raw_file": "data\\raw\\8d57dec3ec938c9e766db493df458732e82a17d39e7f148657b2b18b5c1bde4c.md",
+  "metadata": {
+    "program_name": null,
+    "organization": "Society of Women Engineers",
+    "page_type": "not_a_program",
+    "award_type": "other",
+    "award_amount_min_usd": null,
+    "award_amount_max_usd": null,
+    "award_amount_text": null,
+    "renewable": null,
+    "deadline_text": null,
+    "deadline_date_iso": null,
+    "deadline_recurs_annually": null,
+    "eligibility_summary": null,
+    "applicant_stage": [],
+    "stem_fields": [],
+    "gpa_minimum": null,
+    "citizenship_requirements": null,
+    "residency_restriction": null,
+    "demographic_focus": [],
+    "need_based": null,
+    "merit_based": null,
+    "essay_required": null,
+    "recommendation_letters": null,
+    "tier": "B",
+    "source_url": "https://swe.org/scholarships-overview/",
+    "crawl_date": "2026-10-23",
+    "evidence": {
+      "deadline": null,
+      "award": null,
+      "eligibility": null
+    },
+    "accepts_target_applicants": null,
+    "target_applicant_evidence": null,
+    "stem_relevance": null,
+    "stem_relevance_evidence": null
+  }
+}

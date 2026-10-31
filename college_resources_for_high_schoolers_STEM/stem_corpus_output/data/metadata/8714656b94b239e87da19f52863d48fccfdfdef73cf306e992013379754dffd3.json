@@ -1,0 +1,45 @@
+{
+  "status": "excluded_not_stem_relevant",
+  "content_hash": "0d4a1d68256106e685dd351343d0ae909ff85b3f207ed48470015e1eb394213e",
+  "raw_file": "data\\raw\\8714656b94b239e87da19f52863d48fccfdfdef73cf306e992013379754dffd3.md",
+  "metadata": {
+    "program_name": "NSHSS Visual Arts Scholarship 2026",
+    "organization": "NSHSS",
+    "page_type": "overview",
+    "award_type": "scholarship",
+    "award_amount_min_usd": 2000,
+    "award_amount_max_usd": 2000,
+    "award_amount_text": "Two $2,000 awards per category (photography and painting/drawing/mixed media/digital art)",
+    "renewable": null,
+    "deadline_text": "Closing Date: October 27, 2026 by 11:59PM (EST)",
+    "deadline_date_iso": "2026-10-27",
+    "deadline_recurs_annually": null,
+    "eligibility_summary": "NSHSS members graduating from high school in 2026, 2027, 2028, or 2029",
+    "applicant_stage": [
+      "junior",
+      "senior",
+      "incoming_freshman"
+    ],
+    "stem_fields": [],
+    "gpa_minimum": null,
+    "citizenship_requirements": null,
+    "residency_restriction": null,
+    "demographic_focus": [],
+    "need_based": null,
+    "merit_based": null,
+    "essay_required": null,
+    "recommendation_letters": 1,
+    "tier": "A",
+    "source_url": "https://www.nshss.org/scholarships/s/nshss-visual-arts-scholarship-2026/",
+    "crawl_date": "2026-10-23",
+    "evidence": {
+      "deadline": "Closing Date: October 27, 2026 by 11:59PM (EST)",
+      "award": "Two (2) $2,000 awards for photography, two (2) $2,000 awards for painting/drawing/mixed media/digital art.",
+      "eligibility": "NSHSS **members**graduating from high school in 2026, 2027, 2028, or 2029"
+    },
+    "accepts_target_applicants": true,
+    "target_applicant_evidence": "NSHSS **members**graduating from high school in 2026, 2027, 2028, or 2029",
+    "stem_relevance": false,
+    "stem_relevance_evidence": "Painting/Drawing/Mixed Media/Digital Art"
+  }
+}

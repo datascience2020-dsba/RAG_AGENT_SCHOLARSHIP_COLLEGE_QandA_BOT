@@ -1,0 +1,41 @@
+{
+  "status": "excluded_not_a_program",
+  "content_hash": "474e04202b2acb82bc96b424cc36926b195f388774d375b9a07044fc55674a15",
+  "raw_file": "data\\raw\\572d7a2d528fab34bcf3ecfe6c4f8c354b77b04a329cd8922c4e8912151640b4.md",
+  "metadata": {
+    "program_name": "Volunteer for the SWE Scholarship Program",
+    "organization": "Society of Women Engineers",
+    "page_type": "not_a_program",
+    "award_type": "other",
+    "award_amount_min_usd": null,
+    "award_amount_max_usd": null,
+    "award_amount_text": null,
+    "renewable": null,
+    "deadline_text": null,
+    "deadline_date_iso": null,
+    "deadline_recurs_annually": null,
+    "eligibility_summary": null,
+    "applicant_stage": [],
+    "stem_fields": [],
+    "gpa_minimum": null,
+    "citizenship_requirements": null,
+    "residency_restriction": null,
+    "demographic_focus": [],
+    "need_based": null,
+    "merit_based": null,
+    "essay_required": null,
+    "recommendation_letters": null,
+    "tier": "B",
+    "source_url": "https://swe.org/volunteer-for-the-swe-scholarship-program/",
+    "crawl_date": "2026-10-23",
+    "evidence": {
+      "deadline": null,
+      "award": null,
+      "eligibility": null
+    },
+    "accepts_target_applicants": null,
+    "target_applicant_evidence": null,
+    "stem_relevance": null,
+    "stem_relevance_evidence": null
+  }
+}

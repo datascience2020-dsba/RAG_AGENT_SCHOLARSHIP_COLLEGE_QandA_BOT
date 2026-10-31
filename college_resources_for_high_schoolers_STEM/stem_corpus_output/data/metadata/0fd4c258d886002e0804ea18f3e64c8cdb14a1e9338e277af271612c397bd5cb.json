@@ -1,0 +1,41 @@
+{
+  "status": "excluded_not_a_program",
+  "content_hash": "dee1f48415443b6d5dbe9fbe9e7e8c2b5b228e7e4b0d16f94347b24b86662f63",
+  "raw_file": "data\\raw\\0fd4c258d886002e0804ea18f3e64c8cdb14a1e9338e277af271612c397bd5cb.md",
+  "metadata": {
+    "program_name": null,
+    "organization": null,
+    "page_type": "not_a_program",
+    "award_type": "other",
+    "award_amount_min_usd": null,
+    "award_amount_max_usd": null,
+    "award_amount_text": null,
+    "renewable": null,
+    "deadline_text": null,
+    "deadline_date_iso": null,
+    "deadline_recurs_annually": null,
+    "eligibility_summary": null,
+    "applicant_stage": [],
+    "stem_fields": [],
+    "gpa_minimum": null,
+    "citizenship_requirements": null,
+    "residency_restriction": null,
+    "demographic_focus": [],
+    "need_based": null,
+    "merit_based": null,
+    "essay_required": null,
+    "recommendation_letters": null,
+    "tier": "A",
+    "source_url": "https://www.spacefoundation.org/2022/10/03/steam-stem-scholarships-for-high-school-seniors/feed/",
+    "crawl_date": "2026-10-23",
+    "evidence": {
+      "deadline": null,
+      "award": null,
+      "eligibility": null
+    },
+    "accepts_target_applicants": null,
+    "target_applicant_evidence": null,
+    "stem_relevance": null,
+    "stem_relevance_evidence": null
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "status": "review_required",
+  "content_hash": "51bedc1bf81ce398c6f55fea8a3494692b8183a34a313f229f3f47baad9dd813",
+  "raw_file": "data\\raw\\fecffe3a9a3625f83f835b9c17b3a48dd2bb52e09e54b122a63f3afdf6549ce3.md",
+  "metadata": {
+    "program_name": "College Scholarship Program",
+    "organization": "Jack Kent Cooke Foundation",
+    "page_type": "overview",
+    "award_type": "scholarship",
+    "award_amount_min_usd": null,
+    "award_amount_max_usd": 55000,
+    "award_amount_text": "as much as $55,000 a year",
+    "renewable": null,
+    "deadline_text": "August 19, 2026 - November 11, 2026",
+    "deadline_date_iso": null,
+    "deadline_recurs_annually": null,
+    "eligibility_summary": "high-achieving high school seniors with financial need who seek to attend four-year colleges",
+    "applicant_stage": [
+      "senior",
+      "incoming_freshman"
+    ],
+    "stem_fields": [],
+    "gpa_minimum": null,
+    "citizenship_requirements": null,
+    "residency_restriction": null,
+    "demographic_focus": [
+      "financial need"
+    ],
+    "need_based": true,
+    "merit_based": true,
+    "essay_required": null,
+    "recommendation_letters": null,
+    "tier": "A",
+    "source_url": "https://www.jkcf.org/our-scholarships/",
+    "crawl_date": "2026-10-23",
+    "evidence": {
+      "deadline": "Application Period\n\nAugust 19, 2026 - November 11, 2026",
+      "award": "The award, which is last dollar funding after all institutional aid, can be as much as $55,000 a year.",
+      "eligibility": "available to high-achieving high school seniors with financial need who seek to attend the nation’s best four-year colleges and universities."
+    },
+    "accepts_target_applicants": true,
+    "target_applicant_evidence": "available to high-achieving high school seniors with financial need who seek to attend the nation’s best four-year colleges and universities.",
+    "stem_relevance": null,
+    "stem_relevance_evidence": null
+  }
+}

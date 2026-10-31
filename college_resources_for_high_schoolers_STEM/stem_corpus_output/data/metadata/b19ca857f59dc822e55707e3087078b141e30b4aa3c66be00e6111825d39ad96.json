@@ -1,0 +1,47 @@
+{
+  "status": "review_required",
+  "content_hash": "fb1d00698911add151156933d3a79af5a3f183fee8e2bd75272af9db59133970",
+  "raw_file": "data\\raw\\b19ca857f59dc822e55707e3087078b141e30b4aa3c66be00e6111825d39ad96.md",
+  "metadata": {
+    "program_name": "HOME Scholarship Program",
+    "organization": "University of Wisconsin-Platteville",
+    "page_type": "overview",
+    "award_type": "scholarship",
+    "award_amount_min_usd": null,
+    "award_amount_max_usd": null,
+    "award_amount_text": "Funded through an $807,650 grant from the National Science Foundation’s Robert Noyce Teacher Scholarship Program",
+    "renewable": null,
+    "deadline_text": null,
+    "deadline_date_iso": null,
+    "deadline_recurs_annually": null,
+    "eligibility_summary": "Recruit and retain highly qualified mathematics and science teachers in rural and high‑need school districts.",
+    "applicant_stage": [],
+    "stem_fields": [
+      "mathematics",
+      "science"
+    ],
+    "gpa_minimum": null,
+    "citizenship_requirements": null,
+    "residency_restriction": null,
+    "demographic_focus": [
+      "rural schools",
+      "high-need districts"
+    ],
+    "need_based": null,
+    "merit_based": null,
+    "essay_required": null,
+    "recommendation_letters": null,
+    "tier": "B",
+    "source_url": "https://www.uwplatt.edu/geode/foundation-rural-stem-teachers",
+    "crawl_date": "2026-10-23",
+    "evidence": {
+      "deadline": null,
+      "award": "Funded through an $807,650 grant from the National Science Foundation’s Robert Noyce Teacher Scholarship Program",
+      "eligibility": "HOME is designed to recruit and retain highly qualified mathematics and science teachers in rural and high-need school districts."
+    },
+    "accepts_target_applicants": null,
+    "target_applicant_evidence": null,
+    "stem_relevance": true,
+    "stem_relevance_evidence": "HOME is designed to recruit and retain highly qualified mathematics and science teachers in rural and high-need school districts."
+  }
+}

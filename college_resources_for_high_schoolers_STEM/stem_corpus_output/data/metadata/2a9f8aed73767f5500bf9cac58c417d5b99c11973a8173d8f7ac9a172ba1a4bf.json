@@ -1,0 +1,41 @@
+{
+  "status": "excluded_not_a_program",
+  "content_hash": "d2dbab8106348cb772ee7330d6081eca1b0c8b65f656d6254ae207ad394b8973",
+  "raw_file": "data\\raw\\2a9f8aed73767f5500bf9cac58c417d5b99c11973a8173d8f7ac9a172ba1a4bf.md",
+  "metadata": {
+    "program_name": null,
+    "organization": "University of Louisville",
+    "page_type": "not_a_program",
+    "award_type": "other",
+    "award_amount_min_usd": null,
+    "award_amount_max_usd": null,
+    "award_amount_text": null,
+    "renewable": null,
+    "deadline_text": null,
+    "deadline_date_iso": null,
+    "deadline_recurs_annually": null,
+    "eligibility_summary": null,
+    "applicant_stage": [],
+    "stem_fields": [],
+    "gpa_minimum": null,
+    "citizenship_requirements": null,
+    "residency_restriction": null,
+    "demographic_focus": [],
+    "need_based": null,
+    "merit_based": null,
+    "essay_required": null,
+    "recommendation_letters": null,
+    "tier": "B",
+    "source_url": "https://louisville.edu/cost-aid/undergraduate-scholarships-aid",
+    "crawl_date": "2026-10-23",
+    "evidence": {
+      "deadline": null,
+      "award": null,
+      "eligibility": "You can rely on us to help you access the greatest amount of aid you deserve, from automatic admissions scholarships, competitive and mentored scholarships"
+    },
+    "accepts_target_applicants": null,
+    "target_applicant_evidence": null,
+    "stem_relevance": null,
+    "stem_relevance_evidence": null
+  }
+}

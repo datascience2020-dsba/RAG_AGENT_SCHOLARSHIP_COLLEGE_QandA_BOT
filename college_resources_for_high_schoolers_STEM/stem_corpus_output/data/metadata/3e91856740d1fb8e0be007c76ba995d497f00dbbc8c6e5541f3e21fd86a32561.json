@@ -1,0 +1,43 @@
+{
+  "status": "excluded_applicant_stage",
+  "content_hash": "405a6ab86e0b636ddafda21eaa4a23eee3b5f820e2878dce6a5b9f90e5c5befb",
+  "raw_file": "data\\raw\\3e91856740d1fb8e0be007c76ba995d497f00dbbc8c6e5541f3e21fd86a32561.md",
+  "metadata": {
+    "program_name": "Lexus Verses and Flow Scholarship",
+    "organization": "The Foundation for Ensuring Access & Equity, Inc.",
+    "page_type": "overview",
+    "award_type": "scholarship",
+    "award_amount_min_usd": 5000,
+    "award_amount_max_usd": 5000,
+    "award_amount_text": "$5,000",
+    "renewable": null,
+    "deadline_text": null,
+    "deadline_date_iso": null,
+    "deadline_recurs_annually": null,
+    "eligibility_summary": "Must be an undergraduate student at a Historically Black College or University (HBCU).",
+    "applicant_stage": [],
+    "stem_fields": [],
+    "gpa_minimum": null,
+    "citizenship_requirements": null,
+    "residency_restriction": null,
+    "demographic_focus": [
+      "HBCU students"
+    ],
+    "need_based": null,
+    "merit_based": true,
+    "essay_required": null,
+    "recommendation_letters": null,
+    "tier": "B",
+    "source_url": "https://www.accessandequity.org/lexus-verses-and-flow-scholarship/",
+    "crawl_date": "2026-10-23",
+    "evidence": {
+      "deadline": null,
+      "award": "$5,000 SCHOLARSHIP",
+      "eligibility": "award students at our nation’s Historically Black Colleges and Universities (HBCU’s) for their academic excellence"
+    },
+    "accepts_target_applicants": false,
+    "target_applicant_evidence": "Be an undergraduate student at one of the following:",
+    "stem_relevance": null,
+    "stem_relevance_evidence": null
+  }
+}

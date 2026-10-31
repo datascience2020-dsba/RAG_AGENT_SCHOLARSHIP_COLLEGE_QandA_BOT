@@ -1,0 +1,41 @@
+{
+  "status": "excluded_not_a_program",
+  "content_hash": "8da3c94413b8e4135d106442afb697f063ae318f89df7aa0f5e78a733c8104d3",
+  "raw_file": "data\\raw\\4dc0290f03b15c99da8ccd621f32b3b65c14331bdb40be5e7c05d3ae2136a792.md",
+  "metadata": {
+    "program_name": null,
+    "organization": "Silicon Valley Community Foundation",
+    "page_type": "not_a_program",
+    "award_type": "other",
+    "award_amount_min_usd": null,
+    "award_amount_max_usd": null,
+    "award_amount_text": null,
+    "renewable": null,
+    "deadline_text": "Application Deadline February 27, 2026, @ 12 (Noon) PST",
+    "deadline_date_iso": null,
+    "deadline_recurs_annually": null,
+    "eligibility_summary": "Provides scholarships to graduating high school seniors, undergraduates, re-entry and graduate students.",
+    "applicant_stage": [],
+    "stem_fields": [],
+    "gpa_minimum": null,
+    "citizenship_requirements": null,
+    "residency_restriction": null,
+    "demographic_focus": [],
+    "need_based": null,
+    "merit_based": null,
+    "essay_required": null,
+    "recommendation_letters": null,
+    "tier": "B",
+    "source_url": "https://www.svcf.org/scholarships",
+    "crawl_date": "2026-10-23",
+    "evidence": {
+      "deadline": "Application Deadline February 27, 2026, @ 12 (Noon) PST",
+      "award": "close to 700 scholarships, totaling more than $4.5 million.",
+      "eligibility": "offers scholarships to graduating high school seniors, currently enrolled undergraduates, re-entry students and graduate students."
+    },
+    "accepts_target_applicants": null,
+    "target_applicant_evidence": null,
+    "stem_relevance": null,
+    "stem_relevance_evidence": null
+  }
+}

@@ -1,0 +1,17 @@
+# Environment configuration and local credentials
+**/.env
+**/.env.*
+**/*.env
+
+# Local Python environments and generated state
+**/.venv/
+**/__pycache__/
+**/.agent_state/
+**/.ipynb_checkpoints/
+**/data/raw/
+**/data/responses/
+**/data/cache/
+*.py[cod]
+
+# Large personal media file
+/WEEK3_RoshniM.mp4

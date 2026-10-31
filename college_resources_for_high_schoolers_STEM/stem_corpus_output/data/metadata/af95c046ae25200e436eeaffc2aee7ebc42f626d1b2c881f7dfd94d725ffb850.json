@@ -1,0 +1,51 @@
+{
+  "status": "accepted",
+  "content_hash": "635d60cb6283a48135820bed5d57610319f7d3919246cf3e68fad39daf3f4074",
+  "raw_file": "data\\raw\\af95c046ae25200e436eeaffc2aee7ebc42f626d1b2c881f7dfd94d725ffb850.md",
+  "metadata": {
+    "program_name": "Edison Scholars",
+    "organization": "Edison International",
+    "page_type": "overview",
+    "award_type": "scholarship",
+    "award_amount_min_usd": 50000,
+    "award_amount_max_usd": 50000,
+    "award_amount_text": "$50,000",
+    "renewable": null,
+    "deadline_text": null,
+    "deadline_date_iso": null,
+    "deadline_recurs_annually": null,
+    "eligibility_summary": "High school seniors with at least a 3.0 GPA, financial need, planning to attend a 4‑year accredited college, pursuing STEM, and residing in Southern California Edison’s service area.",
+    "applicant_stage": [
+      "senior"
+    ],
+    "stem_fields": [
+      "computer and information systems",
+      "engineering",
+      "engineering technology",
+      "management information systems",
+      "mathematics",
+      "natural resources and conservation",
+      "physical sciences"
+    ],
+    "gpa_minimum": 3.0,
+    "citizenship_requirements": null,
+    "residency_restriction": "Must live in Southern California Edison’s service area",
+    "demographic_focus": [],
+    "need_based": true,
+    "merit_based": true,
+    "essay_required": false,
+    "recommendation_letters": null,
+    "tier": "A",
+    "source_url": "https://www.edison.com/community/edison-scholars",
+    "crawl_date": "2026-10-23",
+    "evidence": {
+      "deadline": null,
+      "award": "$50,000 STEM College Scholarships for High School Seniors",
+      "eligibility": "* Must be a high school senior with a cumulative GPA of at least 3.0 and demonstrate a need for financial assistance."
+    },
+    "accepts_target_applicants": true,
+    "target_applicant_evidence": "* Must be a high school senior with a cumulative GPA of at least 3.0 and demonstrate a need for financial assistance.",
+    "stem_relevance": true,
+    "stem_relevance_evidence": "Must plan to attend a four-year accredited college or university and pursue STEM programs."
+  }
+}

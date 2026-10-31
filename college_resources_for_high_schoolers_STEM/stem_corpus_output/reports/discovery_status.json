@@ -1,0 +1,26 @@
+{
+  "updated_at": "2026-10-23T17:51:39.228805+00:00",
+  "status": "ready_for_review",
+  "output_path": "C:\\Users\\Rosh\\GENAI\\WEEK2_PROJECT\\college_resources_for_high_schoolers_STEM\\stem_corpus_output\\seeds\\seeds_final.csv",
+  "seed_count": 44,
+  "completed_queries": [
+    "1edbadf172980bfa7e49052e11a9d0b13c76583c3579361c4b0c4cd7b89a85f9",
+    "29320956ec1e60e9ffa45a2667346aa18d4611cfc81c80057f9e41ef14e8fd35",
+    "3024ebfaad0a26bb9f862b38ca5d119ac9bfecad0265aaf280713d90e9c050a7",
+    "53616a5097f130dacbccbbb516f393d87d0d0e342e7949a14f6eeafbf9c8fb3a",
+    "650ab5a5e786bba21c4d2e4482bbbf2f3f51c0d6250de48f9516a80937da1c61",
+    "7262c4316993f528abec3192763aec49bf4aab88663c47fedb8dc3c5446d747b",
+    "763019b38b4b244b94eb18618b47770738b3703e45731405bf15898f2aed8ae8",
+    "8496b1abd6d217417b49d69175307a8b93e128fa12cdab23c4bcaef055a95b75",
+    "ad0c77032fb4c495e17b98fc3d6a3d326c6e06047f5428d0feb6d4b1fdb3b2d4",
+    "c10f7b3c98ee603d2b718d6871c4127890cc5ee108309fb47229eb257097f1bb",
+    "d33194fbc15aad5b77bacf729e6d297235b20d9ba8fb1823c8f694947c2e7dac",
+    "d7831fee5ed3a0ce4ca3cd254d51de9653cad9f6ecd486c1f257a72af4307a81",
+    "d87b8e3165e1157b26c9fa78e566db197e11edcf8796619dcfbf8657b2dbd791",
+    "e2c5e08415ba0c8a2f10e5088c6fa40c0a42a9a814e01277630cf6c243b59dfd",
+    "fa87137410957d93348cecb04bcdc7624a55b3a61c782c4b50b0f2440dcad1eb"
+  ],
+  "planned_query_count": 15,
+  "failures": [],
+  "seed_file_sha256": "74ea80d747ba3cf4bd57025cd80119b86ed7957b5a9df10827a1024ff2a80604"
+}

@@ -1,0 +1,41 @@
+{
+  "status": "review_required",
+  "content_hash": "6b0c0c497445181b4fc3c7a1c6b96a222c30d7c5794813b97227ca46f1384c01",
+  "raw_file": "data\\raw\\6cc9dae4db0dfd677352abbf6eab7b170aa40de0c3d89393d62fc195c763573d.md",
+  "metadata": {
+    "program_name": "Federal Work-Study Program",
+    "organization": "Saint Augustine’s University",
+    "page_type": "overview",
+    "award_type": "grant",
+    "award_amount_min_usd": null,
+    "award_amount_max_usd": null,
+    "award_amount_text": "Up to $11.00 per hour",
+    "renewable": null,
+    "deadline_text": null,
+    "deadline_date_iso": null,
+    "deadline_recurs_annually": null,
+    "eligibility_summary": null,
+    "applicant_stage": [],
+    "stem_fields": [],
+    "gpa_minimum": null,
+    "citizenship_requirements": null,
+    "residency_restriction": null,
+    "demographic_focus": [],
+    "need_based": null,
+    "merit_based": null,
+    "essay_required": null,
+    "recommendation_letters": null,
+    "tier": "B",
+    "source_url": "https://www.st-aug.edu/admissions/financial-aid/types-of-aid/work-study/",
+    "crawl_date": "2026-10-23",
+    "evidence": {
+      "deadline": null,
+      "award": "You’ll make up to $11.00 per hour.",
+      "eligibility": "Your employer or the financial aid office at your school will take into account your class schedule and academic achievement when determining your work hours."
+    },
+    "accepts_target_applicants": null,
+    "target_applicant_evidence": null,
+    "stem_relevance": null,
+    "stem_relevance_evidence": null
+  }
+}

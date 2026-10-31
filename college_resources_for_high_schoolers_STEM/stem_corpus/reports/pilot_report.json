@@ -1,0 +1,84 @@
+{
+  "reported_at": "2026-10-23T17:48:01.453055+00:00",
+  "pilot_sites": [
+    {
+      "url": "https://www.coca-colascholarsfoundation.org/apply/",
+      "tier": "A",
+      "org_name": "Coca-Cola Scholars Foundation"
+    },
+    {
+      "url": "https://swe.org/scholarships-overview/",
+      "tier": "B",
+      "org_name": "Society of Women Engineers"
+    },
+    {
+      "url": "https://financialaid.umd.edu/resources-policies/bannekerkey-scholarship-policy",
+      "tier": "C",
+      "org_name": "University of Maryland Banneker/Key Scholarship"
+    },
+    {
+      "url": "https://mhec.maryland.gov/preparing/Pages/FinancialAid/descriptions.aspx",
+      "tier": "D",
+      "org_name": "Maryland Higher Education Commission"
+    },
+    {
+      "url": "https://scholarships.uncf.org/",
+      "tier": "B",
+      "org_name": "UNCF Scholarships (JavaScript-driven Salesforce portal)"
+    }
+  ],
+  "candidate_pages": 8,
+  "stored_unique_pages": 8,
+  "extraction_storage_success_rate": 1.0,
+  "validated_metadata_pages": 5,
+  "json_validation_success_rate": 0.625,
+  "accepted_program_pages": 0,
+  "credits_reserved_by_stage": {
+    "mapping": 6,
+    "extraction": 4
+  },
+  "reserved_credits_per_stored_page_by_stage": {
+    "mapping": 0.75,
+    "extraction": 0.5
+  },
+  "api_results_returned_across_endpoints": 0,
+  "top_three_logged_failure_causes": [
+    [
+      "metadata_validation_or_provider_failure",
+      75
+    ]
+  ],
+  "budget": {
+    "total_cap": 900,
+    "pilot_cap_included_in_total": 40,
+    "reserved_or_reported_credits": 10.0,
+    "remaining": 890.0,
+    "pilot_credits": 10.0,
+    "pilot_remaining": 30.0,
+    "by_stage": {
+      "discovery": 0,
+      "mapping": 6,
+      "extraction": 4,
+      "retries": 0
+    },
+    "by_tier": {
+      "A": 4,
+      "B": 4,
+      "C": 1,
+      "D": 1
+    },
+    "by_domain": {
+      "coca-colascholarsfoundation.org": 4,
+      "swe.org": 4,
+      "umd.edu": 1,
+      "maryland.gov": 1
+    }
+  },
+  "status": "STOPPED_FOR_USER_REVIEW",
+  "limitations": [
+    "Rates use unique stored pages; duplicate exclusions lower storage yield.",
+    "Pilot seed selection and JS-heavy designation require human review.",
+    "JSON validation does not prove all extracted facts are correct.",
+    "No embeddings, vector index, hybrid retrieval, or gold-set evaluation yet."
+  ]
+}

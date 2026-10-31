@@ -1,0 +1,41 @@
+{
+  "status": "excluded_not_a_program",
+  "content_hash": "dc140d1a3941eda0e41a6b0e8301b529ca85aa2084378d6b0f6aaf7b7be7c7ad",
+  "raw_file": "data\\raw\\3fe8529b37f7b778dc1a99ddb6e363e5fa3a7f5ef458da241e5ebc764092ca45.md",
+  "metadata": {
+    "program_name": null,
+    "organization": "San Francisco State University",
+    "page_type": "not_a_program",
+    "award_type": "other",
+    "award_amount_min_usd": null,
+    "award_amount_max_usd": null,
+    "award_amount_text": null,
+    "renewable": null,
+    "deadline_text": null,
+    "deadline_date_iso": null,
+    "deadline_recurs_annually": null,
+    "eligibility_summary": null,
+    "applicant_stage": [],
+    "stem_fields": [],
+    "gpa_minimum": null,
+    "citizenship_requirements": null,
+    "residency_restriction": null,
+    "demographic_focus": [],
+    "need_based": null,
+    "merit_based": null,
+    "essay_required": null,
+    "recommendation_letters": null,
+    "tier": "A",
+    "source_url": "https://seo.sfsu.edu/Past-SEO-Scholars-in-PhD-Programs",
+    "crawl_date": "2026-10-23",
+    "evidence": {
+      "deadline": null,
+      "award": null,
+      "eligibility": null
+    },
+    "accepts_target_applicants": null,
+    "target_applicant_evidence": null,
+    "stem_relevance": null,
+    "stem_relevance_evidence": null
+  }
+}

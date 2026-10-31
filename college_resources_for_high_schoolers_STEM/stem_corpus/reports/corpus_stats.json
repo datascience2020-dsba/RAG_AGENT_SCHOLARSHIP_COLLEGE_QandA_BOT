@@ -1,0 +1,18 @@
+{
+  "raw_pages": 8,
+  "raw_pages_by_tier": {
+    "B": 3,
+    "A": 3,
+    "C": 1,
+    "D": 1
+  },
+  "metadata_statuses": {
+    "excluded_not_a_program": 5
+  },
+  "accepted_program_pages": 0,
+  "with_parsed_deadline": 0,
+  "with_award_amount": 0,
+  "null_or_empty_rate_by_field": {},
+  "unique_program_count": null,
+  "note": "Records are program pages; cross-page program consolidation is deferred."
+}

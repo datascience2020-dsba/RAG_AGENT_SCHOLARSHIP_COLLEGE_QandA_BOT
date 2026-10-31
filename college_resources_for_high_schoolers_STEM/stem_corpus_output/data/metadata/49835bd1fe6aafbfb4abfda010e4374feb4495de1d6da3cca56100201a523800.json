@@ -1,0 +1,41 @@
+{
+  "status": "review_required",
+  "content_hash": "614b9694908d44eca82ef2c2e94d77107176db2ae392e0098adb0d6bc21239af",
+  "raw_file": "data\\raw\\49835bd1fe6aafbfb4abfda010e4374feb4495de1d6da3cca56100201a523800.md",
+  "metadata": {
+    "program_name": "Career Development Fund",
+    "organization": "APIA Scholars",
+    "page_type": "overview",
+    "award_type": "grant",
+    "award_amount_min_usd": null,
+    "award_amount_max_usd": 2500,
+    "award_amount_text": "Up to $2,500 per student",
+    "renewable": null,
+    "deadline_text": "Applications Open: February 3rd, 2026; Applications Close: February 24th, 2026",
+    "deadline_date_iso": "2026-02-24",
+    "deadline_recurs_annually": null,
+    "eligibility_summary": "Current or former APIA/AANAPISI scholarship recipients who are undergraduate students seeking a degree at a U.S.-accredited college or university.",
+    "applicant_stage": [],
+    "stem_fields": [],
+    "gpa_minimum": null,
+    "citizenship_requirements": null,
+    "residency_restriction": null,
+    "demographic_focus": [],
+    "need_based": true,
+    "merit_based": null,
+    "essay_required": true,
+    "recommendation_letters": null,
+    "tier": "B",
+    "source_url": "https://apiascholars.org/scholarships/career-development-fund/",
+    "crawl_date": "2026-10-23",
+    "evidence": {
+      "deadline": "Applications Close: February 24th, 2026",
+      "award": "Students can request up to $2,500 to help with the following",
+      "eligibility": "To be eligible for the Career Development Fund, you must: * Be a current or former APIA Scholarship or AANAPISI Scholarship recipient."
+    },
+    "accepts_target_applicants": null,
+    "target_applicant_evidence": null,
+    "stem_relevance": null,
+    "stem_relevance_evidence": null
+  }
+}

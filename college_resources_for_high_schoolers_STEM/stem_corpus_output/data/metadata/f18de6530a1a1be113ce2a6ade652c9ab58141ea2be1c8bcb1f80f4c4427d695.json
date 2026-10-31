@@ -1,0 +1,44 @@
+{
+  "status": "excluded_not_stem_relevant",
+  "content_hash": "7597c224999a946c29bbb9751058a461d81a28971a3c7d351b1bff9178d01d9d",
+  "raw_file": "data\\raw\\f18de6530a1a1be113ce2a6ade652c9ab58141ea2be1c8bcb1f80f4c4427d695.md",
+  "metadata": {
+    "program_name": "Honors College Scholarship",
+    "organization": "Pittsburg State University Honors College",
+    "page_type": "overview",
+    "award_type": "scholarship",
+    "award_amount_min_usd": 6000,
+    "award_amount_max_usd": 6000,
+    "award_amount_text": "$6,000 per year for four consecutive years",
+    "renewable": true,
+    "deadline_text": "Applications are due on January 15 each year.",
+    "deadline_date_iso": null,
+    "deadline_recurs_annually": true,
+    "eligibility_summary": "High school students with an ACT superscore of 28+ or a 3.85 unweighted GPA who meet all admission requirements.",
+    "applicant_stage": [
+      "senior",
+      "incoming_freshman"
+    ],
+    "stem_fields": [],
+    "gpa_minimum": 3.85,
+    "citizenship_requirements": null,
+    "residency_restriction": null,
+    "demographic_focus": [],
+    "need_based": null,
+    "merit_based": true,
+    "essay_required": null,
+    "recommendation_letters": null,
+    "tier": "B",
+    "source_url": "https://www.pittstate.edu/academics/honors-college/index.html",
+    "crawl_date": "2026-10-23",
+    "evidence": {
+      "deadline": "Applications are due on January 15 each year.",
+      "award": "Honors College Scholars will receive $6,000 for four consecutive years.",
+      "eligibility": "Either a superscore of 28 or higher on the ACT OR a 3.85 unweighted GPA, AND meet all admission requirements"
+    },
+    "accepts_target_applicants": true,
+    "target_applicant_evidence": "Either a superscore of 28 or higher on the ACT OR a 3.85 unweighted GPA, AND meet all admission requirements",
+    "stem_relevance": false,
+    "stem_relevance_evidence": null
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "status": "accepted",
+  "content_hash": "ec248b1306b2b0f1cd44846284098a74b9ad9336b134a0936b7676bf75dda668",
+  "raw_file": "data\\raw\\f61d048e52a701eaefd969f624dd18a3920d5413c28e72da479d2c6ebe357926.md",
+  "metadata": {
+    "program_name": "Edison Scholars Program",
+    "organization": "Edison International",
+    "page_type": "overview",
+    "award_type": "scholarship",
+    "award_amount_min_usd": null,
+    "award_amount_max_usd": null,
+    "award_amount_text": "$50,000 college scholarships to 30 high school seniors",
+    "renewable": null,
+    "deadline_text": "The 2024 Edison Scholars application is now closed.",
+    "deadline_date_iso": null,
+    "deadline_recurs_annually": null,
+    "eligibility_summary": "High school seniors with at least a 3.0 GPA, planning STEM study at a four‑year college, showing financial need, and residing in Southern California Edison’s service area.",
+    "applicant_stage": [
+      "senior",
+      "incoming_freshman"
+    ],
+    "stem_fields": [
+      "science",
+      "technology",
+      "engineering",
+      "math"
+    ],
+    "gpa_minimum": 3.0,
+    "citizenship_requirements": null,
+    "residency_restriction": "Must live in Southern California Edison’s service area",
+    "demographic_focus": [
+      "underserved communities",
+      "ethnic minorities"
+    ],
+    "need_based": true,
+    "merit_based": null,
+    "essay_required": null,
+    "recommendation_letters": null,
+    "tier": "A",
+    "source_url": "https://energized.edison.com/2024-edison-scholars",
+    "crawl_date": "2026-10-23",
+    "evidence": {
+      "deadline": "The 2024 Edison Scholars application is now closed.",
+      "award": "Edison International will award $50,000 college scholarships to 30 high school seniors",
+      "eligibility": "Applicants must be high school seniors with at least a cumulative 3.0 GPA, plan to pursue studies in the STEM fields"
+    },
+    "accepts_target_applicants": true,
+    "target_applicant_evidence": "Applicants must be high school seniors with at least a cumulative 3.0 GPA, plan to pursue studies in the STEM fields",
+    "stem_relevance": true,
+    "stem_relevance_evidence": "Applicants must be high school seniors with at least a cumulative 3.0 GPA, plan to pursue studies in the STEM fields"
+  }
+}

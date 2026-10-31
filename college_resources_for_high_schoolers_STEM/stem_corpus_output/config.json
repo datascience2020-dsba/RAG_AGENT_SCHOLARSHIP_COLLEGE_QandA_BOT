@@ -1,0 +1,18 @@
+{
+  "total_tavily_cap": 900,
+  "pilot_cap_included_in_total": 40,
+  "stage_caps": {
+    "discovery": 150,
+    "mapping": 300,
+    "extraction": 350,
+    "retries": 100
+  },
+  "tiers": {
+    "A": "National programs for high-school applicants",
+    "B": "Community and professional organizations",
+    "C": "University STEM merit scholarships and honors programs",
+    "D": "State-level programs"
+  },
+  "select_paths": "(?i)(scholar|fellow|grant|award|eligib|apply|deadline|faq|financial[-_]?aid|honors|admission)",
+  "exclude_paths": "(?i)(news|blog|event|donate|login|sign[-_]?in|shop|careers|press|recipient|past[-_]?winners|alumni)"
+}

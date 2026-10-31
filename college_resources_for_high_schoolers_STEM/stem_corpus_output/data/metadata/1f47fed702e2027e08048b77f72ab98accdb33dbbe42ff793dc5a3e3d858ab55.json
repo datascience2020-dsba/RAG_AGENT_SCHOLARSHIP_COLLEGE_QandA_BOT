@@ -1,0 +1,41 @@
+{
+  "status": "review_required",
+  "content_hash": "1e156cd66fb9e27e721c70a5cd8dc89ecd941b2cef0a4264a4f49f8eee8d6291",
+  "raw_file": "data\\raw\\1f47fed702e2027e08048b77f72ab98accdb33dbbe42ff793dc5a3e3d858ab55.md",
+  "metadata": {
+    "program_name": "Dr. James L. Hutchinson and Evelyn Ribbs Hutchinson Medical School Scholarship",
+    "organization": null,
+    "page_type": "overview",
+    "award_type": "scholarship",
+    "award_amount_min_usd": null,
+    "award_amount_max_usd": null,
+    "award_amount_text": null,
+    "renewable": null,
+    "deadline_text": null,
+    "deadline_date_iso": null,
+    "deadline_recurs_annually": null,
+    "eligibility_summary": null,
+    "applicant_stage": [],
+    "stem_fields": [],
+    "gpa_minimum": null,
+    "citizenship_requirements": null,
+    "residency_restriction": null,
+    "demographic_focus": [],
+    "need_based": null,
+    "merit_based": null,
+    "essay_required": null,
+    "recommendation_letters": null,
+    "tier": "B",
+    "source_url": "https://www.svcf.org/scholarships/dr-james-l-hutchinson-and-evelyn-ribbs-hutchinson-medical-school-scholarship",
+    "crawl_date": "2026-10-23",
+    "evidence": {
+      "deadline": null,
+      "award": null,
+      "eligibility": null
+    },
+    "accepts_target_applicants": null,
+    "target_applicant_evidence": null,
+    "stem_relevance": true,
+    "stem_relevance_evidence": "Dr. James L. Hutchinson and Evelyn Ribbs Hutchinson Medical School Scholarship"
+  }
+}

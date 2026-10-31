@@ -1,0 +1,45 @@
+{
+  "status": "review_required",
+  "content_hash": "482d4f7cb0dc836c170fa5e38f8922b68ce684a0d7726a6cf217457b18f2fed0",
+  "raw_file": "data\\raw\\eb65139d164cb00fe7b37be1a1cbd131c27cfe3b207b9e59464d01982cacb747.md",
+  "metadata": {
+    "program_name": "Scholarship America Essential Visionaries Fund",
+    "organization": "Scholarship America",
+    "page_type": "overview",
+    "award_type": "scholarship",
+    "award_amount_min_usd": null,
+    "award_amount_max_usd": null,
+    "award_amount_text": "up to $5,000 for vocational‑technical or two‑year institutions; up to $10,000 for four‑year institutions",
+    "renewable": true,
+    "deadline_text": "Applications Currently Closed",
+    "deadline_date_iso": null,
+    "deadline_recurs_annually": null,
+    "eligibility_summary": "High school seniors, graduates, GED holders, or current undergraduates residing in the U.S.; must plan to enroll in undergraduate study, have a 2.5 GPA, and pursue a major in Education, Counseling, Social Work, Psychology, or Nursing.",
+    "applicant_stage": [
+      "senior",
+      "gap_year",
+      "incoming_freshman"
+    ],
+    "stem_fields": [],
+    "gpa_minimum": 2.5,
+    "citizenship_requirements": "U.S. residents; DACA eligible",
+    "residency_restriction": null,
+    "demographic_focus": [],
+    "need_based": true,
+    "merit_based": true,
+    "essay_required": true,
+    "recommendation_letters": null,
+    "tier": "A",
+    "source_url": "https://scholarshipamerica.org/scholarship/essentialvisionaries/",
+    "crawl_date": "2026-10-23",
+    "evidence": {
+      "deadline": "Applications Currently Closed",
+      "award": "students attending vocational-technical or two-year institutions will receive an award of up to $5,000",
+      "eligibility": "Be high school seniors, high school graduates, GED graduates, or current college undergraduates residing in the United States"
+    },
+    "accepts_target_applicants": true,
+    "target_applicant_evidence": "Be high school seniors, high school graduates, GED graduates, or current college undergraduates residing in the United States",
+    "stem_relevance": null,
+    "stem_relevance_evidence": null
+  }
+}

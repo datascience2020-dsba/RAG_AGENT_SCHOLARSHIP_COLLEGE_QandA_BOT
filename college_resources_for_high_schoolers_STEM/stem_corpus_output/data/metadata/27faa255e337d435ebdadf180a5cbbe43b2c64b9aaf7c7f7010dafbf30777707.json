@@ -1,0 +1,43 @@
+{
+  "status": "review_required",
+  "content_hash": "2940c7a3a42a97f8d3dd5725c326501729c597f4ee34a0e706eb6d1f27851704",
+  "raw_file": "data\\raw\\27faa255e337d435ebdadf180a5cbbe43b2c64b9aaf7c7f7010dafbf30777707.md",
+  "metadata": {
+    "program_name": "Cooke College Scholarship Program",
+    "organization": null,
+    "page_type": "overview",
+    "award_type": "scholarship",
+    "award_amount_min_usd": null,
+    "award_amount_max_usd": 55000,
+    "award_amount_text": "as much as $55,000 per year",
+    "renewable": null,
+    "deadline_text": "will close on November 11, 2026",
+    "deadline_date_iso": "2026-11-11",
+    "deadline_recurs_annually": null,
+    "eligibility_summary": "available to high-achieving high school seniors with financial need who seek to attend and graduate from the nation's top four-year colleges and universities.",
+    "applicant_stage": [
+      "senior"
+    ],
+    "stem_fields": [],
+    "gpa_minimum": null,
+    "citizenship_requirements": null,
+    "residency_restriction": null,
+    "demographic_focus": [],
+    "need_based": true,
+    "merit_based": true,
+    "essay_required": null,
+    "recommendation_letters": null,
+    "tier": "A",
+    "source_url": "https://www.jkcf.org/our-scholarships/college-scholarship-program/",
+    "crawl_date": "2026-10-23",
+    "evidence": {
+      "deadline": "The Cooke College Scholarship Program application is currently open and will close on November 11, 2026.",
+      "award": "can provide as much as $55,000 per year to pursue a bachelor’s degree at any accredited undergraduate institution.",
+      "eligibility": "available to high-achieving high school seniors with financial need who seek to attend and graduate from the nation's top four-year colleges and universities."
+    },
+    "accepts_target_applicants": true,
+    "target_applicant_evidence": "available to high-achieving high school seniors with financial need",
+    "stem_relevance": null,
+    "stem_relevance_evidence": null
+  }
+}

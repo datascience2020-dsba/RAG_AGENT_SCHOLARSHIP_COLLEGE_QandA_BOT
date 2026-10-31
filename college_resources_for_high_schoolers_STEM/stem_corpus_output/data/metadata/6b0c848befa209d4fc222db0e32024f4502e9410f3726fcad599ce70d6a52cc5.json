@@ -1,0 +1,41 @@
+{
+  "status": "excluded_not_a_program",
+  "content_hash": "e78d68bdb62e937ee61444acf03f2ca1b09d885c6121a00bf3cd12abee1e0612",
+  "raw_file": "data\\raw\\6b0c848befa209d4fc222db0e32024f4502e9410f3726fcad599ce70d6a52cc5.md",
+  "metadata": {
+    "program_name": "SEO Fellowship Payments",
+    "organization": "San Francisco State University",
+    "page_type": "not_a_program",
+    "award_type": "fellowship",
+    "award_amount_min_usd": null,
+    "award_amount_max_usd": null,
+    "award_amount_text": null,
+    "renewable": null,
+    "deadline_text": null,
+    "deadline_date_iso": null,
+    "deadline_recurs_annually": null,
+    "eligibility_summary": null,
+    "applicant_stage": [],
+    "stem_fields": [],
+    "gpa_minimum": null,
+    "citizenship_requirements": null,
+    "residency_restriction": null,
+    "demographic_focus": [],
+    "need_based": null,
+    "merit_based": null,
+    "essay_required": null,
+    "recommendation_letters": null,
+    "tier": "A",
+    "source_url": "https://seo.sfsu.edu/index.php/Scholarship-Fellowship-Payments",
+    "crawl_date": "2026-10-23",
+    "evidence": {
+      "deadline": null,
+      "award": "SEO fellowships are are usually disbursed as a monthly stipend check around the 15th of each month.",
+      "eligibility": null
+    },
+    "accepts_target_applicants": null,
+    "target_applicant_evidence": null,
+    "stem_relevance": null,
+    "stem_relevance_evidence": null
+  }
+}

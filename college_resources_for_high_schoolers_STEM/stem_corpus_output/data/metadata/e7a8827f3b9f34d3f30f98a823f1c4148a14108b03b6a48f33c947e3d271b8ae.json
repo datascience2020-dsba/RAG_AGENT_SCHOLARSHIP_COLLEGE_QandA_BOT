@@ -1,0 +1,51 @@
+{
+  "status": "accepted",
+  "content_hash": "94a79448d0f7d9ad6a327fcb8710c089adfed86827624eb1c2beac86050e9fee",
+  "raw_file": "data\\raw\\e7a8827f3b9f34d3f30f98a823f1c4148a14108b03b6a48f33c947e3d271b8ae.md",
+  "metadata": {
+    "program_name": "Edison Scholars",
+    "organization": "Edison International",
+    "page_type": "overview",
+    "award_type": "scholarship",
+    "award_amount_min_usd": 40000,
+    "award_amount_max_usd": 40000,
+    "award_amount_text": "$40,000 scholarship paid over four years",
+    "renewable": true,
+    "deadline_text": null,
+    "deadline_date_iso": null,
+    "deadline_recurs_annually": null,
+    "eligibility_summary": "High school seniors with at least a 3.0 GPA, demonstrated financial need, planning to study STEM at a four‑year college, residing in Southern California Edison service area.",
+    "applicant_stage": [
+      "senior"
+    ],
+    "stem_fields": [
+      "science",
+      "technology",
+      "engineering",
+      "math"
+    ],
+    "gpa_minimum": 3.0,
+    "citizenship_requirements": null,
+    "residency_restriction": "Must live in, or attend a public or private high school in SCE’s service area or an eligible high school near San Onofre Nuclear Generating Station",
+    "demographic_focus": [
+      "underserved communities",
+      "ethnic minorities"
+    ],
+    "need_based": true,
+    "merit_based": true,
+    "essay_required": null,
+    "recommendation_letters": null,
+    "tier": "A",
+    "source_url": "https://energized.edison.com/introducing-our-2017-edison-scholars",
+    "crawl_date": "2026-10-23",
+    "evidence": {
+      "deadline": null,
+      "award": "The $1.2 million program awards $40,000 scholarships, paid over four years, to 30 high school seniors",
+      "eligibility": "Applicants must have at least a cumulative 3.0 GPA, show financial need, and plan to pursue studies in the STEM fields"
+    },
+    "accepts_target_applicants": true,
+    "target_applicant_evidence": "30 high school seniors who either live in, or attend public or private high school, in SCE’s service area",
+    "stem_relevance": true,
+    "stem_relevance_evidence": "All are pursuing careers in STEM (science, technology, engineering or math)"
+  }
+}

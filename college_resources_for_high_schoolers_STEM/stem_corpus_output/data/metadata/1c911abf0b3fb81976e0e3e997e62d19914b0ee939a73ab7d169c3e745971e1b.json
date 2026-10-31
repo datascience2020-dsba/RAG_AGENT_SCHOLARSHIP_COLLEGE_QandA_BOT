@@ -1,0 +1,41 @@
+{
+  "status": "review_required",
+  "content_hash": "1a66fc6842a0c32478f8bfd480735624c8f8cc2af9137f76a2daa7282adf6af9",
+  "raw_file": "data\\raw\\1c911abf0b3fb81976e0e3e997e62d19914b0ee939a73ab7d169c3e745971e1b.md",
+  "metadata": {
+    "program_name": "Krishnan-Shah Family Scholarship",
+    "organization": "Silicon Valley Community Foundation",
+    "page_type": "overview",
+    "award_type": "scholarship",
+    "award_amount_min_usd": null,
+    "award_amount_max_usd": null,
+    "award_amount_text": null,
+    "renewable": null,
+    "deadline_text": null,
+    "deadline_date_iso": null,
+    "deadline_recurs_annually": null,
+    "eligibility_summary": "Open to financially needy students with academic potential and demonstrated community involvement, intended to support completion of an undergraduate degree.",
+    "applicant_stage": [],
+    "stem_fields": [],
+    "gpa_minimum": null,
+    "citizenship_requirements": null,
+    "residency_restriction": null,
+    "demographic_focus": [],
+    "need_based": true,
+    "merit_based": true,
+    "essay_required": null,
+    "recommendation_letters": null,
+    "tier": "B",
+    "source_url": "https://www.svcf.org/scholarships/krishnan-shah-family-scholarship",
+    "crawl_date": "2026-10-23",
+    "evidence": {
+      "deadline": null,
+      "award": null,
+      "eligibility": "support financially needy students with academic potential and demonstrated community involvement"
+    },
+    "accepts_target_applicants": null,
+    "target_applicant_evidence": null,
+    "stem_relevance": null,
+    "stem_relevance_evidence": null
+  }
+}

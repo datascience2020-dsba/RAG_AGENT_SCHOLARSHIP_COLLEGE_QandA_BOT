@@ -1,0 +1,46 @@
+{
+  "status": "review_required",
+  "content_hash": "6a4dad3eef3ca8a8195412143f5877d0311bd482ff16445b7f0540fc5ff0edd6",
+  "raw_file": "data\\raw\\a38c1d9211fc55daf774ca774a3d1e52aef4ce9a41450ead359eba4b1630bbc8.md",
+  "metadata": {
+    "program_name": "SMART Scholarship-for-Service Program",
+    "organization": "Department of War",
+    "page_type": "overview",
+    "award_type": "scholarship",
+    "award_amount_min_usd": 30000,
+    "award_amount_max_usd": 46000,
+    "award_amount_text": "Full tuition plus annual stipend $30,000-$46,000",
+    "renewable": null,
+    "deadline_text": "Applications are open annually from August 1 to the first Friday in December.",
+    "deadline_date_iso": null,
+    "deadline_recurs_annually": true,
+    "eligibility_summary": "STEM students pursuing bachelor's, master's, or doctoral degrees at a U.S. accredited college.",
+    "applicant_stage": [],
+    "stem_fields": [
+      "science",
+      "technology",
+      "engineering",
+      "mathematics"
+    ],
+    "gpa_minimum": null,
+    "citizenship_requirements": null,
+    "residency_restriction": null,
+    "demographic_focus": [],
+    "need_based": null,
+    "merit_based": true,
+    "essay_required": null,
+    "recommendation_letters": null,
+    "tier": "A",
+    "source_url": "https://www.smartscholarship.org/",
+    "crawl_date": "2026-10-23",
+    "evidence": {
+      "deadline": "Applications are open annually from August 1 to the first Friday in December.",
+      "award": "SMART scholars earn annual stipends between $30,000-$46,000 depending on degree level",
+      "eligibility": "SMART provides merit-based scholarships to bachelor's, master's, and doctoral students pursuing STEM degrees."
+    },
+    "accepts_target_applicants": null,
+    "target_applicant_evidence": null,
+    "stem_relevance": true,
+    "stem_relevance_evidence": "SMART provides merit-based scholarships to bachelor's, master's, and doctoral students pursuing STEM degrees."
+  }
+}

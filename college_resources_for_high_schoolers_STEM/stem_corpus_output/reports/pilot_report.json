@@ -1,0 +1,83 @@
+{
+  "reported_at": "2026-10-23T17:49:16.528492+00:00",
+  "pilot_sites": [
+    {
+      "url": "https://www.coca-colascholarsfoundation.org/apply/",
+      "tier": "A",
+      "org_name": "Coca-Cola Scholars Foundation"
+    },
+    {
+      "url": "https://swe.org/scholarships-overview/",
+      "tier": "B",
+      "org_name": "Society of Women Engineers"
+    },
+    {
+      "url": "https://honorscollege.vt.edu/Scholarships/recruitment/Stamps.html",
+      "tier": "C",
+      "org_name": "Virginia Tech Honors College"
+    },
+    {
+      "url": "https://www.schev.edu/financial-aid/financial-aid/federal-state-financial-aid",
+      "tier": "D",
+      "org_name": "State Council of Higher Education for Virginia"
+    },
+    {
+      "url": "https://www.jkcf.org/our-scholarships/college-scholarship-program/",
+      "tier": "A",
+      "org_name": "Jack Kent Cooke Foundation"
+    }
+  ],
+  "candidate_pages": 9,
+  "stored_unique_pages": 9,
+  "extraction_storage_success_rate": 1.0,
+  "validated_metadata_pages": 7,
+  "json_validation_success_rate": 0.7777777777777778,
+  "accepted_program_pages": 0,
+  "credits_reserved_by_stage": {
+    "mapping": 9,
+    "extraction": 3
+  },
+  "reserved_credits_per_stored_page_by_stage": {
+    "mapping": 1.0,
+    "extraction": 0.3333333333333333
+  },
+  "api_results_returned_across_endpoints": 0,
+  "top_three_logged_failure_causes": [
+    [
+      "metadata_validation_or_provider_failure",
+      29
+    ]
+  ],
+  "budget": {
+    "total_cap": 900,
+    "pilot_cap_included_in_total": 40,
+    "reserved_or_reported_credits": 27.0,
+    "remaining": 873.0,
+    "pilot_credits": 12.0,
+    "pilot_remaining": 28.0,
+    "by_stage": {
+      "discovery": 15,
+      "mapping": 9,
+      "extraction": 3,
+      "retries": 0
+    },
+    "by_tier": {
+      "A": 11,
+      "B": 12,
+      "D": 4
+    },
+    "by_domain": {
+      "coca-colascholarsfoundation.org": 4,
+      "swe.org": 4,
+      "jkcf.org": 4,
+      "": 15
+    }
+  },
+  "status": "STOPPED_FOR_USER_REVIEW",
+  "limitations": [
+    "Rates use unique stored pages; duplicate exclusions lower storage yield.",
+    "Pilot seed selection and JS-heavy designation require human review.",
+    "JSON validation does not prove all extracted facts are correct.",
+    "No embeddings, vector index, hybrid retrieval, or gold-set evaluation yet."
+  ]
+}

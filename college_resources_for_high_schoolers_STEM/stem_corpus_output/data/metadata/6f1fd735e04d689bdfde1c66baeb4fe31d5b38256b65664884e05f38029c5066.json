@@ -1,0 +1,46 @@
+{
+  "status": "accepted",
+  "content_hash": "791fd232ac01a550780fb84f2902217fcea7bd29b58569f7f2606c73c0230328",
+  "raw_file": "data\\raw\\6f1fd735e04d689bdfde1c66baeb4fe31d5b38256b65664884e05f38029c5066.md",
+  "metadata": {
+    "program_name": "Fund II Foundation UNCF STEM Scholars Program",
+    "organization": "United Negro College Fund (UNCF) and The Fund II Foundation",
+    "page_type": "overview",
+    "award_type": "scholarship",
+    "award_amount_min_usd": null,
+    "award_amount_max_usd": null,
+    "award_amount_text": null,
+    "renewable": null,
+    "deadline_text": null,
+    "deadline_date_iso": null,
+    "deadline_recurs_annually": null,
+    "eligibility_summary": "identifying 500 African American high school students who are determined to pursue careers in STEM fields.",
+    "applicant_stage": [
+      "junior",
+      "senior"
+    ],
+    "stem_fields": [],
+    "gpa_minimum": null,
+    "citizenship_requirements": null,
+    "residency_restriction": null,
+    "demographic_focus": [
+      "African American"
+    ],
+    "need_based": null,
+    "merit_based": null,
+    "essay_required": null,
+    "recommendation_letters": null,
+    "tier": "A",
+    "source_url": "https://uncf.org/pages/the-fund-ii-foundation-uncf-stem-scholars-program",
+    "crawl_date": "2026-10-23",
+    "evidence": {
+      "deadline": null,
+      "award": "scholarship program to help African American students seeking careers in STEM fields.",
+      "eligibility": "identifying 500 African American high school students who are determined to pursue careers in STEM fields."
+    },
+    "accepts_target_applicants": true,
+    "target_applicant_evidence": "identifying 500 African American high school students who are determined to pursue careers in STEM fields.",
+    "stem_relevance": true,
+    "stem_relevance_evidence": "scholarship program to help African American students seeking careers in STEM fields."
+  }
+}
